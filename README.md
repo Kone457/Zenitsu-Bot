@@ -1,1 +1,4 @@
-# Zenitsu-Bot
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=¡Zenitsu+Bot!" alt="Typing SVG">
+</h1>
