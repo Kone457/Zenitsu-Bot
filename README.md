@@ -1,1 +1,1 @@
-# Zenitsu-Bot-
+# Zenitsu-Bot
