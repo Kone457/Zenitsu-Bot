@@ -1,0 +1,25 @@
+{
+  "name": "Zenitsu-Bot",
+  "version": "1.0.0",
+  "description": "Zenitsu es un pequeño bot en creacion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "axios": "^1.5.0",
+    "pino": "^8.15.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "gradient-string": "^2.0.2",
+    "qrcode-terminal": "^0.12.0",
+    "node-fetch": "^2.7.0",
+    "qrcode": "^1.5.3",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "localtunnel": "^1.0.0",
+    "systeminformation": "^5.9.0", 
+    "figlet": "^1.5.0"
+  }
+}
