@@ -1,7 +1,7 @@
  
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=B8860B&center=true&vCenter=true&width=500&lines=¡¿List@+para+programar?!;¡Vamos!⚡" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=8B0000&center=true&vCenter=true&width=500&lines=¡¿List@+para+programar?!;¡Vamos!⚡" alt="Typing SVG">
 
 
 
