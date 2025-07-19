@@ -8,5 +8,4 @@
 
 ![Prueba](https://qu.ax/BKuYp.jpg)
 
-<img src="https://raw.githubusercontent.com/MBM-D/Github-Emoji/refs/heads/master/Emojis/Smilies/Zzz.png" alt="Heart on Fire" width="23" height="23" />
-<a href="https://whatsapp.com/channel/0029Vb5yKt22UPBI0Qu31l1Y"><img src="https://qu.ax/Srkfg.jpg" height="300px"></a>
+![](https://qu.ax/Srkfg.jpg)
