@@ -8,4 +8,3 @@
 
 ![Zenitsu](https://qu.ax/BKuYp.jpg)
 
-!(https://qu.ax/Srkfg.jpg)
