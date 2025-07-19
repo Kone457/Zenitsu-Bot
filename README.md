@@ -9,4 +9,3 @@
 
 
 
-[![Video demostración](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://qu.ax/xbqWu.mp4)
