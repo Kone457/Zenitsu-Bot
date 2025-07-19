@@ -6,6 +6,6 @@
 
 
 
-![Prueba](https://qu.ax/BKuYp.jpg)
+![Zenitsu](https://qu.ax/BKuYp.jpg)
 
-![](https://qu.ax/Srkfg.jpg)
+!(https://qu.ax/Srkfg.jpg)
