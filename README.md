@@ -1,4 +1,4 @@
-# <p align="center">
+ <p align="center">
   <span style="color:#F8D800">¡Hola</span>
   <span style="color:#F5A623">amig@!</span><br>
   <span style="color:#F8D800">*¿Cómo</span>
