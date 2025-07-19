@@ -4,10 +4,3 @@
 
 ```bash
 Hola
-
-```bash
-cómo estás
-
-
-```bash
-Espero que bien 
